@@ -1,0 +1,105 @@
+# Client-only mods excluded from the dedicated server manifest
+# Generated for JFF Create for Friends Lite 0.0.1
+
+better-advanced-tooltips  # Better Advanced Tooltips
+stellarview  # Stellar View
+configured  # Configured
+searchables  # Searchables
+enchantment-descriptions  # Enchantment Descriptions
+just-enough-professions-jep  # Just Enough Professions (JEP)
+entity-model-features  # [EMF] Entity Model Features [Fabric & Forge]
+ambientsounds  # AmbientSounds 6
+more-overlays-updated  # More Overlays Updated
+mouse-tweaks  # Mouse Tweaks
+silent-gear-jei  # Silent Gear JEI
+advancement-plaques  # Advancement Plaques [Neo/Forge]
+moreculling  # MoreCulling
+immediatelyfast  # ImmediatelyFast
+just-enough-mekanism-multiblocks  # Just Enough Mekanism Multiblocks
+mod-name-tooltip  # Mod Name Tooltip
+appleskin  # AppleSkin
+xaeros-minimap  # Xaero's Minimap
+advanced-core-info  # Advanced Core Info (ACI)
+better-advancements  # Better Advancements
+advanced-loot-info  # Advanced Loot Info (ALI)
+xaeros-world-map  # Xaero's World Map
+jade  # Jade 🔍
+entityculling  # Entity Culling Fabric/Forge
+just-enough-resources-jer  # Just Enough Resources (JER)
+betterf3  # BetterF3
+distant-horizons  # Distant Horizons: A Level of Detail mod
+sodium  # Sodium
+irisshaders  # Iris Shaders
+jei  # Just Enough Items (JEI)
+ftb-jei-extras  # FTB JEI Extras
+justenoughbreeding  # Just Enough Breeding (JEBr)
+jade-addons  # Jade Addons (Neo/Forge)
+falling-leaves-forge  # Falling Leaves (NeoForge/Forge)
+stellar-view-mixin-renderer  # Stellar View Mixin Renderer
+dynamic-fps  # Dynamic FPS
+model-gap-fix  # Model Gap Fix
+presence-footsteps-neoforge  # Presence Footsteps (NeoForge)
+chat-heads  # Chat Heads
+sound-physics-remastered  # Sound Physics Remastered
+
+# Server-side cleanup discovered during dedicated-server test
+refined-storage-jei-integration  # Requires JEI, unnecessary on dedicated server
+mekagenjei-mekanism-generator-addon  # Requires JEI, unnecessary on dedicated server
+mekajadeupgrades  # Requires Jade, unnecessary on dedicated server
+dynamic-villager-trades  # Uploaded file is Fabric-only and cannot load on NeoForge
+
+# Dedicated-server crash: tries to load net.minecraft.client.gui.screens.Screen
+entity-texture-features-fabric  # Client-only visual mod; crashes dedicated server
+
+# Dedicated-server crash: client Screen class
+astran-optimisation  # Client-only optimisation mod; crashes dedicated server
+
+# Dedicated-server datapack/trade crash:
+# tf_dnv registers enchanted villager trades while Tombstone config is not yet loaded.
+twilight-forest-dungeons-villages  # Causes server startup failure during datapack/villager trade loading
+
+# Lite-specific stale JAR cleanup / removed content
+# These are not part of the Lite server manifest and should not remain in a reused server folder.
+aether
+aether-villages
+the-twilight-forest
+the-undergarden
+pneumaticcraft-repressurized
+applied-pneumatics
+extended-crafting
+polymorphic-extended-crafting
+refined-storage
+refined-types
+refined-storage-mekanism-integration
+refined-storage-quartz-arsenal
+rs-search-history
+industrial-foregoing
+industrial-foregoing-souls
+industrial-foregoing-additional
+industrial-foregoing-extra-upgrades
+kubejs-industrial-foregoing-neoforge
+woot-revived
+ifwootaddon
+mystical-agriculture
+mystical-agradditions
+mystical-customization
+mystical-automation
+mystical-agriculture-tiered-crystals
+mystical-extended-tier
+mystical-missing-items
+rftools-base
+rftools-builder
+rftools-control
+rftools-utility
+draconic-evolution
+brandons-core
+cyclic
+laserio
+pipez
+flux-networks
+
+# Lite FIX1 removals
+ExtremeReactors2-1.21.1-2.4.28.jar
+occultengineering-1.21.1-0.13.1.jar
+undergardendelight-2.0.3-neoforge-1.21.1.jar
+create_cold_sweat-1.1.2.jar

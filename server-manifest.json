@@ -1,0 +1,2038 @@
+{
+  "format": 1,
+  "pack": "JFF Create for Friends Lite",
+  "version": "0.0.1",
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.248",
+  "mods": [
+    {
+      "projectID": 968398,
+      "fileID": 8714287,
+      "name": "Create: Copycats+",
+      "slug": "copycats"
+    },
+    {
+      "projectID": 1015105,
+      "fileID": 6272264,
+      "name": "YUNG's Better Strongholds (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-strongholds-neoforge"
+    },
+    {
+      "projectID": 491794,
+      "fileID": 7892943,
+      "name": "Explorer's Compass",
+      "slug": "explorers-compass"
+    },
+    {
+      "projectID": 456956,
+      "fileID": 5813117,
+      "name": "Chipped",
+      "slug": "chipped"
+    },
+    {
+      "projectID": 233071,
+      "fileID": 8697050,
+      "name": "Crafting Tweaks",
+      "slug": "crafting-tweaks"
+    },
+    {
+      "projectID": 244830,
+      "fileID": 8714330,
+      "name": "Advanced Chimneys",
+      "slug": "advanced-chimneys"
+    },
+    {
+      "projectID": 1156551,
+      "fileID": 7705470,
+      "name": "ExperienceLib",
+      "slug": "experiencelib"
+    },
+    {
+      "projectID": 946163,
+      "fileID": 8176502,
+      "name": "DragonLib",
+      "slug": "dragonlib"
+    },
+    {
+      "projectID": 889915,
+      "fileID": 8653466,
+      "name": "FTB XMod Compat",
+      "slug": "ftb-xmod-compat"
+    },
+    {
+      "projectID": 1379706,
+      "fileID": 7195987,
+      "name": "Storage Drawers Extra: Reloaded",
+      "slug": "storage-drawers-extra-reloaded"
+    },
+    {
+      "projectID": 549225,
+      "fileID": 7530361,
+      "name": "Framework",
+      "slug": "framework"
+    },
+    {
+      "projectID": 351725,
+      "fileID": 7627896,
+      "name": "Macaw's Bridges",
+      "slug": "macaws-bridges"
+    },
+    {
+      "projectID": 394535,
+      "fileID": 8646611,
+      "name": "Trash Cans",
+      "slug": "trash-cans"
+    },
+    {
+      "projectID": 538392,
+      "fileID": 8532346,
+      "name": "Modonomicon",
+      "slug": "modonomicon"
+    },
+    {
+      "projectID": 244844,
+      "fileID": 8714321,
+      "name": "ForgeEndertech",
+      "slug": "forgeendertech"
+    },
+    {
+      "projectID": 1520561,
+      "fileID": 8334978,
+      "name": "Polymorphic Occultism",
+      "slug": "polymorphic-occultism"
+    },
+    {
+      "projectID": 306626,
+      "fileID": 6948833,
+      "name": "Nature's Aura",
+      "slug": "natures-aura"
+    },
+    {
+      "projectID": 1001614,
+      "fileID": 8345326,
+      "name": "Lionfish API",
+      "slug": "lionfish-api"
+    },
+    {
+      "projectID": 383129,
+      "fileID": 6811960,
+      "name": "Connected Glass",
+      "slug": "connected-glass"
+    },
+    {
+      "projectID": 231095,
+      "fileID": 7405270,
+      "name": "Chisels & Bits - For Forge",
+      "slug": "chisels-bits"
+    },
+    {
+      "projectID": 1591787,
+      "fileID": 8551027,
+      "name": "Powerful Pottery",
+      "slug": "powerful-pottery"
+    },
+    {
+      "projectID": 1395288,
+      "fileID": 8744297,
+      "name": "Construction Wands Revived",
+      "slug": "construction-wands-revived"
+    },
+    {
+      "projectID": 1550248,
+      "fileID": 8136721,
+      "name": "better powah",
+      "slug": "better-powah"
+    },
+    {
+      "projectID": 1545291,
+      "fileID": 8152441,
+      "name": "Create: Meat Blocks",
+      "slug": "create-meat-blocks"
+    },
+    {
+      "projectID": 254268,
+      "fileID": 7197218,
+      "name": "Torchmaster",
+      "slug": "torchmaster"
+    },
+    {
+      "projectID": 247393,
+      "fileID": 5603975,
+      "name": "Simple Quarry",
+      "slug": "simple-quarry"
+    },
+    {
+      "projectID": 297039,
+      "fileID": 8095210,
+      "name": "Silent Gear",
+      "slug": "silent-gear"
+    },
+    {
+      "projectID": 1629132,
+      "fileID": 8548625,
+      "name": "Create: Superheated",
+      "slug": "create-superheated"
+    },
+    {
+      "projectID": 1539353,
+      "fileID": 8359139,
+      "name": "Create ReAutomated: Traces",
+      "slug": "create-reautomated-traces"
+    },
+    {
+      "projectID": 378646,
+      "fileID": 7618651,
+      "name": "Macaw's Doors",
+      "slug": "macaws-doors"
+    },
+    {
+      "projectID": 1028211,
+      "fileID": 8421542,
+      "name": "Common Storage Lib",
+      "slug": "common-storage-lib"
+    },
+    {
+      "projectID": 298744,
+      "fileID": 8610535,
+      "name": "Structurize",
+      "slug": "structurize"
+    },
+    {
+      "projectID": 514045,
+      "fileID": 7361502,
+      "name": "AllTheCompressed",
+      "slug": "allthecompressed"
+    },
+    {
+      "projectID": 1415723,
+      "fileID": 7528198,
+      "name": "Citadel (Unofficial Port)",
+      "slug": "citadel-1-21-1-port"
+    },
+    {
+      "projectID": 1061749,
+      "fileID": 7766920,
+      "name": "Create: Enchantable Machinery",
+      "slug": "create-enchantable-machinery"
+    },
+    {
+      "projectID": 256717,
+      "fileID": 5623731,
+      "name": "Clumps",
+      "slug": "clumps"
+    },
+    {
+      "projectID": 841890,
+      "fileID": 8061947,
+      "name": "Athena",
+      "slug": "athena"
+    },
+    {
+      "projectID": 620770,
+      "fileID": 7441587,
+      "name": "Expanded Delight",
+      "slug": "expanded-delight"
+    },
+    {
+      "projectID": 230976,
+      "fileID": 5849090,
+      "name": "Fast Leaf Decay",
+      "slug": "fast-leaf-decay"
+    },
+    {
+      "projectID": 522992,
+      "fileID": 7541336,
+      "name": "BlockUI",
+      "slug": "blockui"
+    },
+    {
+      "projectID": 626761,
+      "fileID": 8657120,
+      "name": "Towns and Towers",
+      "slug": "towns-and-towers"
+    },
+    {
+      "projectID": 1574664,
+      "fileID": 8470472,
+      "name": "Create: Plenty O' Recipes - (Biomes O' Plenty + Create Compatibility Mod)",
+      "slug": "create-plenty-o-recipes-biomes-o-plenty-create"
+    },
+    {
+      "projectID": 1311898,
+      "fileID": 8762665,
+      "name": "Ad Astra: More Structures",
+      "slug": "ad-astra-more-structures"
+    },
+    {
+      "projectID": 867328,
+      "fileID": 7220195,
+      "name": "Create: Applied Kinetics",
+      "slug": "create-applied-kinetics"
+    },
+    {
+      "projectID": 1312371,
+      "fileID": 8673825,
+      "name": "Sable",
+      "slug": "sable"
+    },
+    {
+      "projectID": 360203,
+      "fileID": 8719090,
+      "name": "Guard Villagers",
+      "slug": "guard-villagers"
+    },
+    {
+      "projectID": 574300,
+      "fileID": 7096962,
+      "name": "Applied Mekanistics",
+      "slug": "applied-mekanistics"
+    },
+    {
+      "projectID": 422301,
+      "fileID": 8687841,
+      "name": "Sophisticated Backpacks",
+      "slug": "sophisticated-backpacks"
+    },
+    {
+      "projectID": 242998,
+      "fileID": 7935618,
+      "name": "Silent Lib (silentlib)",
+      "slug": "silent-lib"
+    },
+    {
+      "projectID": 1522473,
+      "fileID": 8743051,
+      "name": "Create: Aeroworks",
+      "slug": "create-aeroworks"
+    },
+    {
+      "projectID": 646668,
+      "fileID": 8303106,
+      "name": "Create Big Cannons",
+      "slug": "create-big-cannons"
+    },
+    {
+      "projectID": 237307,
+      "fileID": 5610814,
+      "name": "Cosmetic Armor Reworked",
+      "slug": "cosmetic-armor-reworked"
+    },
+    {
+      "projectID": 484954,
+      "fileID": 7526601,
+      "name": "More Villagers",
+      "slug": "more-villagers"
+    },
+    {
+      "projectID": 1015100,
+      "fileID": 8702150,
+      "name": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+      "slug": "yungs-api-neoforge"
+    },
+    {
+      "projectID": 363703,
+      "fileID": 6427515,
+      "name": "Goblin Traders",
+      "slug": "goblin-traders"
+    },
+    {
+      "projectID": 618298,
+      "fileID": 8705083,
+      "name": "Sophisticated Core",
+      "slug": "sophisticated-core"
+    },
+    {
+      "projectID": 1124942,
+      "fileID": 8400478,
+      "name": "FTB Materials",
+      "slug": "ftb-materials"
+    },
+    {
+      "projectID": 328085,
+      "fileID": 7963363,
+      "name": "Create",
+      "slug": "create"
+    },
+    {
+      "projectID": 561625,
+      "fileID": 6051279,
+      "name": "Creeper Overhaul",
+      "slug": "creeper-overhaul"
+    },
+    {
+      "projectID": 352039,
+      "fileID": 6494399,
+      "name": "Macaw's Roofs",
+      "slug": "macaws-roofs"
+    },
+    {
+      "projectID": 243707,
+      "fileID": 8661357,
+      "name": "Corail Tombstone",
+      "slug": "corail-tombstone"
+    },
+    {
+      "projectID": 1216624,
+      "fileID": 8633162,
+      "name": "Create: Dragons Plus",
+      "slug": "create-dragons-plus"
+    },
+    {
+      "projectID": 1015096,
+      "fileID": 5812193,
+      "name": "YUNG's Better Mineshafts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-mineshafts-neoforge"
+    },
+    {
+      "projectID": 531761,
+      "fileID": 8645517,
+      "name": "Balm",
+      "slug": "balm"
+    },
+    {
+      "projectID": 1196142,
+      "fileID": 7315860,
+      "name": "Create: Sound of Steam",
+      "slug": "create-sound-of-steam"
+    },
+    {
+      "projectID": 1102591,
+      "fileID": 7625579,
+      "name": "Create: Trading Floor",
+      "slug": "create-trading-floor"
+    },
+    {
+      "projectID": 377835,
+      "fileID": 6776826,
+      "name": "Create Goggles (Create Plus)",
+      "slug": "create-goggles"
+    },
+    {
+      "projectID": 693815,
+      "fileID": 8205648,
+      "name": "Create: The Factory Must Grow",
+      "slug": "create-industry"
+    },
+    {
+      "projectID": 1321045,
+      "fileID": 7985040,
+      "name": "Create:  Chipped",
+      "slug": "create-chipped"
+    },
+    {
+      "projectID": 898963,
+      "fileID": 8502288,
+      "name": "Apothic Attributes",
+      "slug": "apothic-attributes"
+    },
+    {
+      "projectID": 242818,
+      "fileID": 8491811,
+      "name": "CodeChicken Lib 1.8.+",
+      "slug": "codechicken-lib-1-8"
+    },
+    {
+      "projectID": 1173950,
+      "fileID": 8420861,
+      "name": "GuideME",
+      "slug": "guideme"
+    },
+    {
+      "projectID": 360438,
+      "fileID": 8330365,
+      "name": "Lithium (Fabric/NeoForge)",
+      "slug": "lithium"
+    },
+    {
+      "projectID": 1347640,
+      "fileID": 7005831,
+      "name": "Create: More Bridges",
+      "slug": "create-more-bridges"
+    },
+    {
+      "projectID": 1217628,
+      "fileID": 6289346,
+      "name": "Create: Better Create",
+      "slug": "betther-create"
+    },
+    {
+      "projectID": 400933,
+      "fileID": 7256148,
+      "name": "Macaw's Trapdoors",
+      "slug": "macaws-trapdoors"
+    },
+    {
+      "projectID": 1275257,
+      "fileID": 8724947,
+      "name": "Mekanism:More Machine",
+      "slug": "mekanism-more-machine"
+    },
+    {
+      "projectID": 233113,
+      "fileID": 6558787,
+      "name": "Chance Cubes",
+      "slug": "chance-cubes"
+    },
+    {
+      "projectID": 1654531,
+      "fileID": 8746555,
+      "name": "Create: Simulated Missiles | Create Aeronautics | Create Big Cannons Compat | Create: Radars Compat",
+      "slug": "create-simulated-missiles-create-aeronautics"
+    },
+    {
+      "projectID": 242195,
+      "fileID": 7336064,
+      "name": "Dark Utilities",
+      "slug": "dark-utilities"
+    },
+    {
+      "projectID": 396234,
+      "fileID": 7864177,
+      "name": "Pig Pen Cipher",
+      "slug": "pig-pen-cipher"
+    },
+    {
+      "projectID": 1654869,
+      "fileID": 8660841,
+      "name": "Create Creative Survival Recipes",
+      "slug": "create-creative-survival-recipes"
+    },
+    {
+      "projectID": 1591129,
+      "fileID": 8335464,
+      "name": "Create: Better Contraption Storage",
+      "slug": "create-better-contraption-storage"
+    },
+    {
+      "projectID": 570073,
+      "fileID": 5973188,
+      "name": "Resourceful Lib",
+      "slug": "resourceful-lib"
+    },
+    {
+      "projectID": 1615465,
+      "fileID": 8458959,
+      "name": "Create: Storage Drawers & Functional Frogport/Packager input fix",
+      "slug": "create-storage-drawers-functional-frogport"
+    },
+    {
+      "projectID": 412525,
+      "fileID": 7446147,
+      "name": "LibX",
+      "slug": "libx"
+    },
+    {
+      "projectID": 1157608,
+      "fileID": 7705498,
+      "name": "Applied Experienced",
+      "slug": "applied-experienced"
+    },
+    {
+      "projectID": 1231636,
+      "fileID": 6365234,
+      "name": "Macaw's Bridge's Delight",
+      "slug": "macaws-bridges-delight"
+    },
+    {
+      "projectID": 923238,
+      "fileID": 8156977,
+      "name": "Create: Design n' Decor",
+      "slug": "create-design-n-decor"
+    },
+    {
+      "projectID": 1155398,
+      "fileID": 7977298,
+      "name": "Silent's Power Scale",
+      "slug": "silents-power-scale"
+    },
+    {
+      "projectID": 887484,
+      "fileID": 7976140,
+      "name": "Xaero's Minimap & World Map - Waystones Compatibility [Forge & NeoForge]",
+      "slug": "xaeros-minimap-world-map-waystones-compability"
+    },
+    {
+      "projectID": 1072209,
+      "fileID": 7801278,
+      "name": "Mekanism Unleashed",
+      "slug": "mekanism-unleashed"
+    },
+    {
+      "projectID": 1514529,
+      "fileID": 8493955,
+      "name": "Create Aeronautics: Claims (FTB/OPAC)",
+      "slug": "aeronautics-claims"
+    },
+    {
+      "projectID": 1492763,
+      "fileID": 8364894,
+      "name": "Iron's Lib",
+      "slug": "irons-lib"
+    },
+    {
+      "projectID": 438332,
+      "fileID": 5546996,
+      "name": "SuperMartijn642's Config Lib",
+      "slug": "supermartijn642s-config-lib"
+    },
+    {
+      "projectID": 869316,
+      "fileID": 8542167,
+      "name": "Create: Diesel Generators",
+      "slug": "create-diesel-generators"
+    },
+    {
+      "projectID": 252848,
+      "fileID": 7892954,
+      "name": "Nature's Compass",
+      "slug": "natures-compass"
+    },
+    {
+      "projectID": 1281770,
+      "fileID": 8681273,
+      "name": "Create: Storage [Neo/Forge]",
+      "slug": "create-storage-neo-forge"
+    },
+    {
+      "projectID": 1653477,
+      "fileID": 8653384,
+      "name": "Sophisticated Backpacks: Ars Compat   |   Sophisticated Backpacks Ars-Nouveau Compatibility",
+      "slug": "sophisticated-backpacks-ars-compat-sophisticated"
+    },
+    {
+      "projectID": 235577,
+      "fileID": 8163135,
+      "name": "TrashSlot",
+      "slug": "trashslot"
+    },
+    {
+      "projectID": 897858,
+      "fileID": 6616313,
+      "name": "Create: Fishing Bobber Detector | Automatic Fishing with Create",
+      "slug": "fishing-bobber-detector"
+    },
+    {
+      "projectID": 858897,
+      "fileID": 8348413,
+      "name": "Create : Creating Space",
+      "slug": "create-creating-space"
+    },
+    {
+      "projectID": 1015118,
+      "fileID": 6606621,
+      "name": "YUNG's Better Nether Fortresses (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-nether-fortresses-neoforge"
+    },
+    {
+      "projectID": 241319,
+      "fileID": 8661878,
+      "name": "Reliquary Reincarnations",
+      "slug": "reliquary-reincarnations"
+    },
+    {
+      "projectID": 1092594,
+      "fileID": 6452657,
+      "name": "Ycurrency",
+      "slug": "ycurrenci"
+    },
+    {
+      "projectID": 60028,
+      "fileID": 7901588,
+      "name": "Aquaculture 2",
+      "slug": "aquaculture"
+    },
+    {
+      "projectID": 1251061,
+      "fileID": 6602973,
+      "name": "Mekanism Curios",
+      "slug": "mekanism-curios"
+    },
+    {
+      "projectID": 453925,
+      "fileID": 7308338,
+      "name": "Macaw's Fences and Walls",
+      "slug": "macaws-fences-and-walls"
+    },
+    {
+      "projectID": 288885,
+      "fileID": 6751534,
+      "name": "FastWorkbench",
+      "slug": "fastworkbench"
+    },
+    {
+      "projectID": 1414670,
+      "fileID": 8243336,
+      "name": "Steam 'n' Rails Neoforge",
+      "slug": "steam-n-rails-neoforge"
+    },
+    {
+      "projectID": 429235,
+      "fileID": 7524151,
+      "name": "FerriteCore ((Neo)Forge)",
+      "slug": "ferritecore"
+    },
+    {
+      "projectID": 840734,
+      "fileID": 6521990,
+      "name": "Create: Liquid Fuel",
+      "slug": "create-liquid-fuel"
+    },
+    {
+      "projectID": 223852,
+      "fileID": 6995432,
+      "name": "Storage Drawers",
+      "slug": "storage-drawers"
+    },
+    {
+      "projectID": 299540,
+      "fileID": 6751551,
+      "name": "FastFurnace",
+      "slug": "fastfurnace"
+    },
+    {
+      "projectID": 245755,
+      "fileID": 8645538,
+      "name": "Waystones",
+      "slug": "waystones"
+    },
+    {
+      "projectID": 382216,
+      "fileID": 8397829,
+      "name": "Blueprint",
+      "slug": "blueprint"
+    },
+    {
+      "projectID": 1351997,
+      "fileID": 7476105,
+      "name": "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)",
+      "slug": "create-o-plenty"
+    },
+    {
+      "projectID": 1666077,
+      "fileID": 8722067,
+      "name": "Polymorph Pages",
+      "slug": "polymorph-pages"
+    },
+    {
+      "projectID": 984493,
+      "fileID": 6318680,
+      "name": "Man of Many Planes",
+      "slug": "man-of-many-planes"
+    },
+    {
+      "projectID": 243121,
+      "fileID": 8420966,
+      "name": "Quark",
+      "slug": "quark"
+    },
+    {
+      "projectID": 388172,
+      "fileID": 8350073,
+      "name": "GeckoLib",
+      "slug": "geckolib"
+    },
+    {
+      "projectID": 309858,
+      "fileID": 6875895,
+      "name": "Forbidden and Arcanus",
+      "slug": "forbidden-arcanus"
+    },
+    {
+      "projectID": 1015123,
+      "fileID": 5924482,
+      "name": "YUNG's Better Jungle Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-jungle-temples-neoforge"
+    },
+    {
+      "projectID": 676721,
+      "fileID": 8763471,
+      "name": "Create Aeronautics",
+      "slug": "create-aeronautics"
+    },
+    {
+      "projectID": 1023259,
+      "fileID": 6961457,
+      "name": "Prickle",
+      "slug": "prickle"
+    },
+    {
+      "projectID": 622112,
+      "fileID": 7952621,
+      "name": "MEGA Cells",
+      "slug": "mega-cells"
+    },
+    {
+      "projectID": 1555276,
+      "fileID": 8202240,
+      "name": "Create for twinks. Create addon",
+      "slug": "create-for-twinks-create-addon"
+    },
+    {
+      "projectID": 1418443,
+      "fileID": 7548215,
+      "name": "BuildingGadgets2GUI",
+      "slug": "buildinggadgets2gui"
+    },
+    {
+      "projectID": 885449,
+      "fileID": 5872111,
+      "name": "EpheroLib",
+      "slug": "epherolib"
+    },
+    {
+      "projectID": 410811,
+      "fileID": 8442866,
+      "name": "FTB Essentials (Forge & Fabric)",
+      "slug": "ftb-essentials"
+    },
+    {
+      "projectID": 1260145,
+      "fileID": 8679269,
+      "name": "Create: Escalated",
+      "slug": "create-escalated"
+    },
+    {
+      "projectID": 1091960,
+      "fileID": 8325313,
+      "name": "Create: More Features",
+      "slug": "create-more-features"
+    },
+    {
+      "projectID": 459929,
+      "fileID": 8450398,
+      "name": "Applied Energistics 2 Wireless Terminals",
+      "slug": "applied-energistics-2-wireless-terminals"
+    },
+    {
+      "projectID": 1581680,
+      "fileID": 8357588,
+      "name": "Create: Seats Third Person",
+      "slug": "create-seats-third-person"
+    },
+    {
+      "projectID": 306770,
+      "fileID": 7730942,
+      "name": "Patchouli",
+      "slug": "patchouli"
+    },
+    {
+      "projectID": 633483,
+      "fileID": 8011715,
+      "name": "Powah! (Rearchitected)",
+      "slug": "powah-rearchitected"
+    },
+    {
+      "projectID": 231951,
+      "fileID": 6733669,
+      "name": "Immersive Engineering",
+      "slug": "immersive-engineering"
+    },
+    {
+      "projectID": 506194,
+      "fileID": 8302211,
+      "name": "Cold Sweat",
+      "slug": "cold-sweat"
+    },
+    {
+      "projectID": 551586,
+      "fileID": 8706841,
+      "name": "L_Ender 's Cataclysm",
+      "slug": "lendercataclysm"
+    },
+    {
+      "projectID": 525480,
+      "fileID": 6593297,
+      "name": "Better Villages - NeoForge",
+      "slug": "better-village-neoforge"
+    },
+    {
+      "projectID": 929829,
+      "fileID": 8421979,
+      "name": "Mekanism: Weapons",
+      "slug": "mekanism-weapons"
+    },
+    {
+      "projectID": 1421860,
+      "fileID": 7425530,
+      "name": "Carry Me",
+      "slug": "carry-me"
+    },
+    {
+      "projectID": 405593,
+      "fileID": 7825464,
+      "name": "ATO - All the Ores",
+      "slug": "ato"
+    },
+    {
+      "projectID": 940057,
+      "fileID": 6054947,
+      "name": "TerraBlender (NeoForge)",
+      "slug": "terrablender-neoforge"
+    },
+    {
+      "projectID": 268567,
+      "fileID": 7904062,
+      "name": "Mekanism Tools",
+      "slug": "mekanism-tools"
+    },
+    {
+      "projectID": 326652,
+      "fileID": 8749806,
+      "name": "Cupboard",
+      "slug": "cupboard"
+    },
+    {
+      "projectID": 361579,
+      "fileID": 6225208,
+      "name": "spark",
+      "slug": "spark"
+    },
+    {
+      "projectID": 289412,
+      "fileID": 8730556,
+      "name": "FTB Quests (NeoForge)",
+      "slug": "ftb-quests-forge"
+    },
+    {
+      "projectID": 1635715,
+      "fileID": 8720765,
+      "name": "Powah Addon",
+      "slug": "powah-addon"
+    },
+    {
+      "projectID": 838378,
+      "fileID": 7182924,
+      "name": "KubeJS Powah",
+      "slug": "kubejs-powah"
+    },
+    {
+      "projectID": 238086,
+      "fileID": 8715199,
+      "name": "KubeJS",
+      "slug": "kubejs"
+    },
+    {
+      "projectID": 1060096,
+      "fileID": 8383748,
+      "name": "Mekanism Lasers",
+      "slug": "mekanism-lasers"
+    },
+    {
+      "projectID": 283644,
+      "fileID": 8463693,
+      "name": "Placebo",
+      "slug": "placebo"
+    },
+    {
+      "projectID": 1415721,
+      "fileID": 7528193,
+      "name": "Alex's Mobs (Unofficial Port)",
+      "slug": "alexs-mobs-1-21-1-port"
+    },
+    {
+      "projectID": 938643,
+      "fileID": 5453382,
+      "name": "Melody",
+      "slug": "melody"
+    },
+    {
+      "projectID": 1238567,
+      "fileID": 8398818,
+      "name": "Sophisticated Backpacks Create Integration",
+      "slug": "sophisticated-backpacks-create-integration"
+    },
+    {
+      "projectID": 237664,
+      "fileID": 7034259,
+      "name": "Iron Furnaces",
+      "slug": "iron-furnaces"
+    },
+    {
+      "projectID": 1090999,
+      "fileID": 8359493,
+      "name": "AddonsLib",
+      "slug": "addonslib"
+    },
+    {
+      "projectID": 905040,
+      "fileID": 6299879,
+      "name": "Create: Bells & Whistles",
+      "slug": "bellsandwhistles"
+    },
+    {
+      "projectID": 1603705,
+      "fileID": 8746527,
+      "name": "Create: Simulated Jet Engines | Aero Propulsion | Create Aeronautics",
+      "slug": "create-simulated-jet-engines-aero-propulsion"
+    },
+    {
+      "projectID": 864781,
+      "fileID": 8037481,
+      "name": "Create: Dreams n' Desires",
+      "slug": "create-dreams-desires"
+    },
+    {
+      "projectID": 1279407,
+      "fileID": 7587771,
+      "name": "Ritchie's Projectile Library",
+      "slug": "ritchies-projectile-library"
+    },
+    {
+      "projectID": 300331,
+      "fileID": 6219029,
+      "name": "Simply Light",
+      "slug": "simply-light"
+    },
+    {
+      "projectID": 916747,
+      "fileID": 8040848,
+      "name": "ShatterLib | OctoLib",
+      "slug": "shatterbyte-lib"
+    },
+    {
+      "projectID": 509285,
+      "fileID": 7943181,
+      "name": "Create Deco",
+      "slug": "create-deco"
+    },
+    {
+      "projectID": 634571,
+      "fileID": 7131196,
+      "name": "Just Enough Immersive Multiblocks",
+      "slug": "just-enough-immersive-multiblocks"
+    },
+    {
+      "projectID": 1005676,
+      "fileID": 8466444,
+      "name": "Create: Aquatic Ambitions",
+      "slug": "create-aquatic-ambitions"
+    },
+    {
+      "projectID": 1091564,
+      "fileID": 8296207,
+      "name": "Macaw's Quark",
+      "slug": "macaws-quark"
+    },
+    {
+      "projectID": 906239,
+      "fileID": 7544005,
+      "name": "Create: Interiors",
+      "slug": "interiors"
+    },
+    {
+      "projectID": 417802,
+      "fileID": 6926284,
+      "name": "Gateways to Eternity",
+      "slug": "gateways-to-eternity"
+    },
+    {
+      "projectID": 1225603,
+      "fileID": 8211913,
+      "name": "Create: Ice & Creams",
+      "slug": "create-ice-creams"
+    },
+    {
+      "projectID": 941573,
+      "fileID": 8448640,
+      "name": "Bosses of Mass Destruction [Forge | NeoForge]",
+      "slug": "bosses-of-mass-destruction-forge"
+    },
+    {
+      "projectID": 1412446,
+      "fileID": 8417023,
+      "name": "Immersive Engineering JS",
+      "slug": "immersive-engineering-js"
+    },
+    {
+      "projectID": 635042,
+      "fileID": 8758526,
+      "name": "Ad Astra",
+      "slug": "ad-astra"
+    },
+    {
+      "projectID": 1015152,
+      "fileID": 6158374,
+      "name": "YUNG's Menu Tweaks (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-menu-tweaks-neoforge"
+    },
+    {
+      "projectID": 623764,
+      "fileID": 7766752,
+      "name": "JamLib",
+      "slug": "jamlib"
+    },
+    {
+      "projectID": 223794,
+      "fileID": 7027323,
+      "name": "Applied Energistics 2",
+      "slug": "applied-energistics-2"
+    },
+    {
+      "projectID": 574913,
+      "fileID": 8646976,
+      "name": "Critters and Companions",
+      "slug": "critters-and-companions"
+    },
+    {
+      "projectID": 268560,
+      "fileID": 7904058,
+      "name": "Mekanism",
+      "slug": "mekanism"
+    },
+    {
+      "projectID": 398521,
+      "fileID": 8765184,
+      "name": "Farmer's Delight",
+      "slug": "farmers-delight"
+    },
+    {
+      "projectID": 410295,
+      "fileID": 5453385,
+      "name": "Konkrete",
+      "slug": "konkrete"
+    },
+    {
+      "projectID": 298223,
+      "fileID": 5931628,
+      "name": "Better Crates",
+      "slug": "better-crates"
+    },
+    {
+      "projectID": 820977,
+      "fileID": 8616574,
+      "name": "Create: Central Kitchen",
+      "slug": "create-central-kitchen"
+    },
+    {
+      "projectID": 688768,
+      "fileID": 8241347,
+      "name": "Create: Enchantment Industry",
+      "slug": "create-enchantment-industry"
+    },
+    {
+      "projectID": 395620,
+      "fileID": 5550187,
+      "name": "Item Collectors",
+      "slug": "item-collectors"
+    },
+    {
+      "projectID": 527361,
+      "fileID": 7789217,
+      "name": "Domum Ornamentum",
+      "slug": "domum-ornamentum"
+    },
+    {
+      "projectID": 714958,
+      "fileID": 8676868,
+      "name": "Ad Astra: Giselle Addon",
+      "slug": "ad-astra-giselle-addon"
+    },
+    {
+      "projectID": 1551230,
+      "fileID": 8132016,
+      "name": "Kazakh Delight [NeoForge] (A Farmer's Delight Add-on)",
+      "slug": "kazakh-delight-a-farmers-delight-add-on"
+    },
+    {
+      "projectID": 1091339,
+      "fileID": 8648639,
+      "name": "AllTheLeaks (Memory Leak Fix)",
+      "slug": "alltheleaks"
+    },
+    {
+      "projectID": 233105,
+      "fileID": 8256201,
+      "name": "McJtyLib",
+      "slug": "mcjtylib"
+    },
+    {
+      "projectID": 452834,
+      "fileID": 7508749,
+      "name": "RightClickHarvest",
+      "slug": "rightclickharvest"
+    },
+    {
+      "projectID": 667299,
+      "fileID": 7437845,
+      "name": "YetAnotherConfigLib",
+      "slug": "yacl"
+    },
+    {
+      "projectID": 936015,
+      "fileID": 8660310,
+      "name": "Lithostitched",
+      "slug": "lithostitched"
+    },
+    {
+      "projectID": 348521,
+      "fileID": 5729127,
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "slug": "cloth-config"
+    },
+    {
+      "projectID": 419699,
+      "fileID": 8492726,
+      "name": "Architectury API",
+      "slug": "architectury-api"
+    },
+    {
+      "projectID": 947914,
+      "fileID": 8299240,
+      "name": "Create: Connected",
+      "slug": "create-connected"
+    },
+    {
+      "projectID": 1565092,
+      "fileID": 8718684,
+      "name": "The Awakening",
+      "slug": "the-awakening"
+    },
+    {
+      "projectID": 661293,
+      "fileID": 7055149,
+      "name": "SmartBrainLib (Forge/Fabric/Quilt)",
+      "slug": "smartbrainlib"
+    },
+    {
+      "projectID": 299045,
+      "fileID": 5863210,
+      "name": "Mystical Agriculture Tiered Crystals",
+      "slug": "mystical-agriculture-tiered-crystals"
+    },
+    {
+      "projectID": 386134,
+      "fileID": 8231400,
+      "name": "FTB Ultimine (NeoForge)",
+      "slug": "ftb-ultimine-forge"
+    },
+    {
+      "projectID": 1496416,
+      "fileID": 8718991,
+      "name": "Roll Delight (A Farmer's Delight Add-on)",
+      "slug": "roll-delight"
+    },
+    {
+      "projectID": 1516820,
+      "fileID": 8577740,
+      "name": "Create ReAutomated",
+      "slug": "create-reautomated"
+    },
+    {
+      "projectID": 1354280,
+      "fileID": 8646664,
+      "name": "Create: Transmission!",
+      "slug": "create-transmission"
+    },
+    {
+      "projectID": 1535273,
+      "fileID": 8726621,
+      "name": "Upgraded Iron Chests",
+      "slug": "upgraded-iron-chests"
+    },
+    {
+      "projectID": 1600514,
+      "fileID": 8399898,
+      "name": "Create: Quarry",
+      "slug": "create-quarry"
+    },
+    {
+      "projectID": 666014,
+      "fileID": 8158291,
+      "name": "Immersive Aircraft",
+      "slug": "immersive-aircraft"
+    },
+    {
+      "projectID": 312353,
+      "fileID": 8683747,
+      "name": "Artifacts",
+      "slug": "artifacts"
+    },
+    {
+      "projectID": 274259,
+      "fileID": 8512888,
+      "name": "Carry On",
+      "slug": "carry-on"
+    },
+    {
+      "projectID": 1015112,
+      "fileID": 5954804,
+      "name": "YUNG's Better Dungeons (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-dungeons-neoforge"
+    },
+    {
+      "projectID": 941096,
+      "fileID": 5545923,
+      "name": "Polymorphic Energistics",
+      "slug": "polymorphic-energistics"
+    },
+    {
+      "projectID": 361026,
+      "fileID": 8745224,
+      "name": "Occultism",
+      "slug": "occultism"
+    },
+    {
+      "projectID": 220318,
+      "fileID": 8288121,
+      "name": "Biomes O' Plenty",
+      "slug": "biomes-o-plenty"
+    },
+    {
+      "projectID": 1595031,
+      "fileID": 8542751,
+      "name": "Create: Brewing",
+      "slug": "create-brewing"
+    },
+    {
+      "projectID": 907843,
+      "fileID": 8586886,
+      "name": "Ars Ocultas",
+      "slug": "ars-ocultas"
+    },
+    {
+      "projectID": 1015149,
+      "fileID": 5812553,
+      "name": "YUNG's Bridges (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-bridges-neoforge"
+    },
+    {
+      "projectID": 257814,
+      "fileID": 8699787,
+      "name": "CreativeCore",
+      "slug": "creativecore"
+    },
+    {
+      "projectID": 1226755,
+      "fileID": 8503147,
+      "name": "Sophisticated Storage Create Integration",
+      "slug": "sophisticated-storage-create-integration"
+    },
+    {
+      "projectID": 538214,
+      "fileID": 6330030,
+      "name": "Handcrafted",
+      "slug": "handcrafted"
+    },
+    {
+      "projectID": 561470,
+      "fileID": 8399862,
+      "name": "Ars Elemental",
+      "slug": "ars-elemental"
+    },
+    {
+      "projectID": 532610,
+      "fileID": 6785734,
+      "name": "oωo (owo-lib)",
+      "slug": "owo-lib"
+    },
+    {
+      "projectID": 404468,
+      "fileID": 8724782,
+      "name": "FTB Teams (NeoForge)",
+      "slug": "ftb-teams-forge"
+    },
+    {
+      "projectID": 401955,
+      "fileID": 8721482,
+      "name": "Ars Nouveau",
+      "slug": "ars-nouveau"
+    },
+    {
+      "projectID": 364466,
+      "fileID": 7974403,
+      "name": "Allthemodium",
+      "slug": "allthemodium"
+    },
+    {
+      "projectID": 284497,
+      "fileID": 7105279,
+      "name": "Iron Jetpacks",
+      "slug": "iron-jetpacks"
+    },
+    {
+      "projectID": 955605,
+      "fileID": 6483943,
+      "name": "CERBON's API [Forge | Fabric | NeoForge]",
+      "slug": "cerbons-api"
+    },
+    {
+      "projectID": 361276,
+      "fileID": 8695784,
+      "name": "Lootr (Forge & NeoForge)",
+      "slug": "lootr"
+    },
+    {
+      "projectID": 1015114,
+      "fileID": 6276955,
+      "name": "YUNG's Better Desert Temples (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-desert-temples-neoforge"
+    },
+    {
+      "projectID": 659674,
+      "fileID": 8547315,
+      "name": "Create Slice & Dice",
+      "slug": "slice-and-dice"
+    },
+    {
+      "projectID": 394140,
+      "fileID": 6316527,
+      "name": "Simple Magnets",
+      "slug": "simple-magnets"
+    },
+    {
+      "projectID": 955399,
+      "fileID": 8109792,
+      "name": "GlitchCore",
+      "slug": "glitchcore"
+    },
+    {
+      "projectID": 881026,
+      "fileID": 5736088,
+      "name": "Iron Ender Chests",
+      "slug": "iron-ender-chests"
+    },
+    {
+      "projectID": 416294,
+      "fileID": 8218748,
+      "name": "Rhino",
+      "slug": "rhino"
+    },
+    {
+      "projectID": 953126,
+      "fileID": 8394637,
+      "name": "Create: Framed",
+      "slug": "create-framed"
+    },
+    {
+      "projectID": 919759,
+      "fileID": 8749909,
+      "name": "Create: Dynamic Village",
+      "slug": "dynamic-village"
+    },
+    {
+      "projectID": 1553552,
+      "fileID": 8424946,
+      "name": "Create: Delete and Repeat",
+      "slug": "create-delete-and-repeat"
+    },
+    {
+      "projectID": 485681,
+      "fileID": 6383261,
+      "name": "Chunky (Forge/NeoForge)",
+      "slug": "chunky-pregenerator-forge"
+    },
+    {
+      "projectID": 1281336,
+      "fileID": 8541877,
+      "name": "Create: Hypertubes",
+      "slug": "hypertubes"
+    },
+    {
+      "projectID": 454372,
+      "fileID": 8623666,
+      "name": "SuperMartijn642's Core Lib",
+      "slug": "supermartijn642s-core-lib"
+    },
+    {
+      "projectID": 661261,
+      "fileID": 8611586,
+      "name": "FLIB",
+      "slug": "flib"
+    },
+    {
+      "projectID": 245174,
+      "fileID": 6159037,
+      "name": "Ender Storage 1.8.+",
+      "slug": "ender-storage-1-8"
+    },
+    {
+      "projectID": 1584126,
+      "fileID": 8652529,
+      "name": "AdAstra StellarView Compatibility",
+      "slug": "adastra-stellarview-compatibility"
+    },
+    {
+      "projectID": 404465,
+      "fileID": 8569579,
+      "name": "FTB Library (NeoForge)",
+      "slug": "ftb-library-forge"
+    },
+    {
+      "projectID": 882495,
+      "fileID": 5513549,
+      "name": "fix GPU memory leak",
+      "slug": "fix-gpu-memory-leak"
+    },
+    {
+      "projectID": 454382,
+      "fileID": 8705433,
+      "name": "Cable Tiers",
+      "slug": "cable-tiers"
+    },
+    {
+      "projectID": 345425,
+      "fileID": 7904060,
+      "name": "Mekanism Additions",
+      "slug": "mekanism-additions"
+    },
+    {
+      "projectID": 1152836,
+      "fileID": 8227753,
+      "name": "Create: Radars",
+      "slug": "create-radars"
+    },
+    {
+      "projectID": 888624,
+      "fileID": 8302843,
+      "name": "Rechiseled: Create",
+      "slug": "rechiseled-create"
+    },
+    {
+      "projectID": 1015115,
+      "fileID": 5924487,
+      "name": "YUNG's Better Ocean Monuments (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-ocean-monuments-neoforge"
+    },
+    {
+      "projectID": 1318310,
+      "fileID": 8486127,
+      "name": "Create: Northstar - Redux",
+      "slug": "northstar-redux"
+    },
+    {
+      "projectID": 351264,
+      "fileID": 8335665,
+      "name": "Kotlin for Forge",
+      "slug": "kotlin-for-forge"
+    },
+    {
+      "projectID": 1015144,
+      "fileID": 5812532,
+      "name": "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-witch-huts-neoforge"
+    },
+    {
+      "projectID": 638508,
+      "fileID": 5491721,
+      "name": "EdivadLib",
+      "slug": "edivadlib"
+    },
+    {
+      "projectID": 1256341,
+      "fileID": 8044769,
+      "name": "Create Stock Bridge",
+      "slug": "create-stock-bridge"
+    },
+    {
+      "projectID": 1015146,
+      "fileID": 5812546,
+      "name": "YUNG's Extras (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-extras-neoforge"
+    },
+    {
+      "projectID": 1443327,
+      "fileID": 8345582,
+      "name": "Create: Electro Energetics",
+      "slug": "create-electro-energetics"
+    },
+    {
+      "projectID": 220311,
+      "fileID": 7512691,
+      "name": "Silent's Gems",
+      "slug": "silents-gems"
+    },
+    {
+      "projectID": 429371,
+      "fileID": 7213667,
+      "name": "KubeJS Create",
+      "slug": "kubejs-create"
+    },
+    {
+      "projectID": 817423,
+      "fileID": 8367232,
+      "name": "AzureLib",
+      "slug": "azurelib"
+    },
+    {
+      "projectID": 522351,
+      "fileID": 6118136,
+      "name": "Library Ferret - NeoForge",
+      "slug": "library-ferret-neoforge"
+    },
+    {
+      "projectID": 1584203,
+      "fileID": 8651170,
+      "name": "Framed Maps Fix",
+      "slug": "framed-maps-fix"
+    },
+    {
+      "projectID": 850891,
+      "fileID": 7658494,
+      "name": "More Immersive Wires",
+      "slug": "more-immersive-wires"
+    },
+    {
+      "projectID": 790626,
+      "fileID": 8459650,
+      "name": "ModernFix",
+      "slug": "modernfix"
+    },
+    {
+      "projectID": 282947,
+      "fileID": 8267921,
+      "name": "Baubley Heart Canisters",
+      "slug": "baubley-heart-canisters"
+    },
+    {
+      "projectID": 1559550,
+      "fileID": 8427886,
+      "name": "Create Aeronautics: Shield Generators | Create Big Cannons Compat |Force Field",
+      "slug": "create-aeronautics-shield-generator-force-field"
+    },
+    {
+      "projectID": 342584,
+      "fileID": 8341460,
+      "name": "Collective",
+      "slug": "collective"
+    },
+    {
+      "projectID": 1658884,
+      "fileID": 8742648,
+      "name": "Chunky GUI",
+      "slug": "chunky-gui"
+    },
+    {
+      "projectID": 388800,
+      "fileID": 6794589,
+      "name": "Polymorph (Fabric/Forge/Quilt)",
+      "slug": "polymorph"
+    },
+    {
+      "projectID": 714059,
+      "fileID": 6467772,
+      "name": "Resourceful Config",
+      "slug": "resourceful-config"
+    },
+    {
+      "projectID": 250294,
+      "fileID": 8478801,
+      "name": "Modular Routers",
+      "slug": "modular-routers"
+    },
+    {
+      "projectID": 1533130,
+      "fileID": 8655352,
+      "name": "Create More Seats",
+      "slug": "create-more-seats"
+    },
+    {
+      "projectID": 1574677,
+      "fileID": 8270258,
+      "name": "Create: AtomiCreate",
+      "slug": "create-atomicreate"
+    },
+    {
+      "projectID": 986583,
+      "fileID": 8469405,
+      "name": "Apothic Spawners",
+      "slug": "apothic-spawners"
+    },
+    {
+      "projectID": 854949,
+      "fileID": 8721879,
+      "name": "Fusion (Connected Textures)",
+      "slug": "fusion-connected-textures"
+    },
+    {
+      "projectID": 856996,
+      "fileID": 8241767,
+      "name": "Cristel Lib",
+      "slug": "cristel-lib"
+    },
+    {
+      "projectID": 520110,
+      "fileID": 6423863,
+      "name": "Iceberg [Neo/Forge]",
+      "slug": "iceberg"
+    },
+    {
+      "projectID": 1492934,
+      "fileID": 8339901,
+      "name": "Polymorphic Refined Storage",
+      "slug": "rs-polymorph"
+    },
+    {
+      "projectID": 1063926,
+      "fileID": 8682996,
+      "name": "Apothic Enchanting",
+      "slug": "apothic-enchanting"
+    },
+    {
+      "projectID": 1584158,
+      "fileID": 8299251,
+      "name": "Create: Take a seat, Piglin! - Automated Bartering",
+      "slug": "take-a-seat-piglin"
+    },
+    {
+      "projectID": 228756,
+      "fileID": 5491156,
+      "name": "Iron Chests",
+      "slug": "iron-chests"
+    },
+    {
+      "projectID": 992377,
+      "fileID": 6131911,
+      "name": "Immersive Energistics",
+      "slug": "immersive-energistics"
+    },
+    {
+      "projectID": 314906,
+      "fileID": 8520252,
+      "name": "FTB Chunks (NeoForge)",
+      "slug": "ftb-chunks-forge"
+    },
+    {
+      "projectID": 1283899,
+      "fileID": 8674792,
+      "name": "Player Animation Library",
+      "slug": "player-animation-library"
+    },
+    {
+      "projectID": 268566,
+      "fileID": 7904061,
+      "name": "Mekanism Generators",
+      "slug": "mekanism-generators"
+    },
+    {
+      "projectID": 1217518,
+      "fileID": 7951368,
+      "name": "Create Better FPS",
+      "slug": "create-better-fps"
+    },
+    {
+      "projectID": 345854,
+      "fileID": 8211584,
+      "name": "Villager Names",
+      "slug": "villager-names"
+    },
+    {
+      "projectID": 689467,
+      "fileID": 7221528,
+      "name": "Packet Fixer",
+      "slug": "packet-fixer"
+    },
+    {
+      "projectID": 855414,
+      "fileID": 8680204,
+      "name": "Iron's Spells 'n Spellbooks",
+      "slug": "irons-spells-n-spellbooks"
+    },
+    {
+      "projectID": 854213,
+      "fileID": 6830399,
+      "name": "Colorful Hearts",
+      "slug": "colorful-hearts"
+    },
+    {
+      "projectID": 1323655,
+      "fileID": 8199739,
+      "name": "Mekanism: Enchantable MekaSuit",
+      "slug": "mekanism-enchantable-mekasuit"
+    },
+    {
+      "projectID": 935929,
+      "fileID": 8175347,
+      "name": "Create Railways Navigator",
+      "slug": "create-railways-navigator"
+    },
+    {
+      "projectID": 314905,
+      "fileID": 8519426,
+      "name": "FTB Ranks (NeoForge)",
+      "slug": "ftb-ranks-forge"
+    },
+    {
+      "projectID": 619320,
+      "fileID": 8687896,
+      "name": "Sophisticated Storage",
+      "slug": "sophisticated-storage"
+    },
+    {
+      "projectID": 627986,
+      "fileID": 8663845,
+      "name": "Naturalist",
+      "slug": "naturalist"
+    },
+    {
+      "projectID": 466792,
+      "fileID": 8664066,
+      "name": "Create Stuff 'N Additions",
+      "slug": "create-stuff-additions"
+    },
+    {
+      "projectID": 313970,
+      "fileID": 8564919,
+      "name": "Apotheosis",
+      "slug": "apotheosis"
+    },
+    {
+      "projectID": 439890,
+      "fileID": 8188476,
+      "name": "Create Crafts & Additions",
+      "slug": "createaddition"
+    },
+    {
+      "projectID": 363569,
+      "fileID": 7317672,
+      "name": "Macaw's Windows",
+      "slug": "macaws-windows"
+    },
+    {
+      "projectID": 316873,
+      "fileID": 5846603,
+      "name": "Charm of Undying (Fabric/Forge/Quilt)",
+      "slug": "charm-of-undying"
+    },
+    {
+      "projectID": 499980,
+      "fileID": 8749776,
+      "name": "Moonlight Lib",
+      "slug": "selene"
+    },
+    {
+      "projectID": 905641,
+      "fileID": 6203425,
+      "name": "Ars Énergistique",
+      "slug": "ars-energistique"
+    },
+    {
+      "projectID": 340583,
+      "fileID": 8686119,
+      "name": "YUNG's Better Caves (Forge/NeoForge)",
+      "slug": "yungs-better-caves"
+    },
+    {
+      "projectID": 228525,
+      "fileID": 7606240,
+      "name": "Bookshelf",
+      "slug": "bookshelf"
+    },
+    {
+      "projectID": 1015127,
+      "fileID": 6300968,
+      "name": "YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]",
+      "slug": "yungs-better-end-island-neoforge"
+    },
+    {
+      "projectID": 441647,
+      "fileID": 8349218,
+      "name": "FramedBlocks",
+      "slug": "framedblocks"
+    },
+    {
+      "projectID": 978125,
+      "fileID": 8038954,
+      "name": "Create: Ultimate Factory",
+      "slug": "create-ultimate-factory"
+    },
+    {
+      "projectID": 231484,
+      "fileID": 8404453,
+      "name": "Cooking for Blockheads",
+      "slug": "cooking-for-blockheads"
+    },
+    {
+      "projectID": 415438,
+      "fileID": 7958876,
+      "name": "Croptopia",
+      "slug": "croptopia"
+    },
+    {
+      "projectID": 247401,
+      "fileID": 5739162,
+      "name": "HammerLib",
+      "slug": "hammer-lib"
+    },
+    {
+      "projectID": 364120,
+      "fileID": 8100595,
+      "name": "All The Tweaks",
+      "slug": "all-the-tweaks"
+    },
+    {
+      "projectID": 445274,
+      "fileID": 7586568,
+      "name": "Relics",
+      "slug": "relics-mod"
+    },
+    {
+      "projectID": 1094032,
+      "fileID": 6928639,
+      "name": "All The Arcanist Gear",
+      "slug": "all-the-arcanist-gear"
+    },
+    {
+      "projectID": 943925,
+      "fileID": 7429011,
+      "name": "FTB Filter System",
+      "slug": "ftb-filter-system"
+    },
+    {
+      "projectID": 1659062,
+      "fileID": 8702015,
+      "name": "Create: Storage Better Jetpack",
+      "slug": "create-storage-better-jetpack"
+    },
+    {
+      "projectID": 1028420,
+      "fileID": 8665338,
+      "name": "Create Train Utilities (Create Train Doors)",
+      "slug": "create-trainutilities"
+    },
+    {
+      "projectID": 1357563,
+      "fileID": 7569595,
+      "name": "NoisiumForked",
+      "slug": "noisiumforked"
+    },
+    {
+      "projectID": 936020,
+      "fileID": 8126570,
+      "name": "Create: Power Loader",
+      "slug": "create-power-loader"
+    },
+    {
+      "projectID": 475117,
+      "fileID": 7527945,
+      "name": "FastSuite",
+      "slug": "fastsuite"
+    },
+    {
+      "projectID": 241160,
+      "fileID": 5623547,
+      "name": "NetherPortalFix",
+      "slug": "netherportalfix"
+    },
+    {
+      "projectID": 1126493,
+      "fileID": 7864313,
+      "name": "Nyctography",
+      "slug": "nyctography"
+    },
+    {
+      "projectID": 416935,
+      "fileID": 6296775,
+      "name": "Valhelsia Core",
+      "slug": "valhelsia-core"
+    },
+    {
+      "projectID": 278993,
+      "fileID": 7094632,
+      "name": "Bonsai Trees 4",
+      "slug": "bonsai-trees"
+    },
+    {
+      "projectID": 250398,
+      "fileID": 6368976,
+      "name": "Controlling",
+      "slug": "controlling"
+    },
+    {
+      "projectID": 301700,
+      "fileID": 5788529,
+      "name": "Gobber [NEOFORGE/FORGE]",
+      "slug": "gobber"
+    },
+    {
+      "projectID": 1197614,
+      "fileID": 6219409,
+      "name": "Ars Polymorphia",
+      "slug": "ars-polymorphia"
+    },
+    {
+      "projectID": 309927,
+      "fileID": 6529130,
+      "name": "Curios API",
+      "slug": "curios"
+    },
+    {
+      "projectID": 1364841,
+      "fileID": 8118029,
+      "name": "Create:Heat",
+      "slug": "create-heat"
+    },
+    {
+      "projectID": 558998,
+      "fileID": 8301793,
+      "name": "Rechiseled",
+      "slug": "rechiseled"
+    },
+    {
+      "projectID": 412082,
+      "fileID": 8757040,
+      "name": "Supplementaries",
+      "slug": "supplementaries"
+    },
+    {
+      "projectID": 897116,
+      "fileID": 7473565,
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "slug": "refurbished-furniture"
+    },
+    {
+      "projectID": 399757,
+      "fileID": 5615790,
+      "name": "Charging Gadgets",
+      "slug": "charging-gadgets"
+    },
+    {
+      "projectID": 1269043,
+      "fileID": 8234485,
+      "name": "Create: Creator Sword",
+      "slug": "creator-sword"
+    },
+    {
+      "projectID": 575698,
+      "fileID": 8139067,
+      "name": "Ars Creo",
+      "slug": "ars-creo"
+    },
+    {
+      "projectID": 1357724,
+      "fileID": 8103626,
+      "name": "FTB Chunks x Xaero's Compat",
+      "slug": "ftbxaerocompat"
+    },
+    {
+      "projectID": 250832,
+      "fileID": 6199696,
+      "name": "OpenBlocks Elevator",
+      "slug": "openblocks-elevator"
+    },
+    {
+      "projectID": 298187,
+      "fileID": 6850515,
+      "name": "Building Gadgets",
+      "slug": "building-gadgets"
+    },
+    {
+      "projectID": 968868,
+      "fileID": 7980010,
+      "name": "Zeta",
+      "slug": "zeta"
+    },
+    {
+      "projectID": 268250,
+      "fileID": 8420142,
+      "name": "Immersive Petroleum",
+      "slug": "immersive-petroleum"
+    },
+    {
+      "projectID": 1084104,
+      "fileID": 8564177,
+      "name": "AdvancedAE",
+      "slug": "advancedae"
+    }
+  ]
+}

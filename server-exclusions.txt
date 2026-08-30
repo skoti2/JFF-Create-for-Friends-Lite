@@ -106,3 +106,12 @@ create_cold_sweat-1.1.2.jar
 
 # Lite FIX2 removal
 polymorphic_occultism-1.21.1-1.0.1.jar
+
+# Lite FIX3 cleanup
+cabletiers-neoforge-1.21.1-0.6.14.jar
+rspolymorph-neoforge-1.21.1-1.2.2.jar
+matc-1.7.1.jar
+betterpowah-1.1-neoforge-1.21.1.jar
+ColdSweat-2.4.2.jar
+kazakh_delight-1.0.0.jar
+occultism-1.21.1-neoforge-1.224.4.jar

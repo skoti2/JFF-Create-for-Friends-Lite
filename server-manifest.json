@@ -133,12 +133,6 @@
       "slug": "construction-wands-revived"
     },
     {
-      "projectID": 1550248,
-      "fileID": 8136721,
-      "name": "better powah",
-      "slug": "better-powah"
-    },
-    {
       "projectID": 1545291,
       "fileID": 8152441,
       "name": "Create: Meat Blocks",
@@ -823,12 +817,6 @@
       "slug": "immersive-engineering"
     },
     {
-      "projectID": 506194,
-      "fileID": 8302211,
-      "name": "Cold Sweat",
-      "slug": "cold-sweat"
-    },
-    {
       "projectID": 551586,
       "fileID": 8706841,
       "name": "L_Ender 's Cataclysm",
@@ -1123,12 +1111,6 @@
       "slug": "ad-astra-giselle-addon"
     },
     {
-      "projectID": 1551230,
-      "fileID": 8132016,
-      "name": "Kazakh Delight [NeoForge] (A Farmer's Delight Add-on)",
-      "slug": "kazakh-delight-a-farmers-delight-add-on"
-    },
-    {
       "projectID": 1091339,
       "fileID": 8648639,
       "name": "AllTheLeaks (Memory Leak Fix)",
@@ -1187,12 +1169,6 @@
       "fileID": 7055149,
       "name": "SmartBrainLib (Forge/Fabric/Quilt)",
       "slug": "smartbrainlib"
-    },
-    {
-      "projectID": 299045,
-      "fileID": 5863210,
-      "name": "Mystical Agriculture Tiered Crystals",
-      "slug": "mystical-agriculture-tiered-crystals"
     },
     {
       "projectID": 386134,
@@ -1259,12 +1235,6 @@
       "fileID": 5545923,
       "name": "Polymorphic Energistics",
       "slug": "polymorphic-energistics"
-    },
-    {
-      "projectID": 361026,
-      "fileID": 8745224,
-      "name": "Occultism",
-      "slug": "occultism"
     },
     {
       "projectID": 220318,
@@ -1459,12 +1429,6 @@
       "slug": "fix-gpu-memory-leak"
     },
     {
-      "projectID": 454382,
-      "fileID": 8705433,
-      "name": "Cable Tiers",
-      "slug": "cable-tiers"
-    },
-    {
       "projectID": 345425,
       "fileID": 7904060,
       "name": "Mekanism Additions",
@@ -1649,12 +1613,6 @@
       "fileID": 6423863,
       "name": "Iceberg [Neo/Forge]",
       "slug": "iceberg"
-    },
-    {
-      "projectID": 1492934,
-      "fileID": 8339901,
-      "name": "Polymorphic Refined Storage",
-      "slug": "rs-polymorph"
     },
     {
       "projectID": 1063926,
@@ -2027,6 +1985,18 @@
       "fileID": 8564177,
       "name": "AdvancedAE",
       "slug": "advancedae"
+    },
+    {
+      "projectID": 272335,
+      "fileID": 8035802,
+      "name": "Cucumber Library",
+      "slug": "cucumber"
+    },
+    {
+      "projectID": 658587,
+      "fileID": 7389814,
+      "name": "playerAnimator",
+      "slug": "playeranimator"
     }
   ]
 }

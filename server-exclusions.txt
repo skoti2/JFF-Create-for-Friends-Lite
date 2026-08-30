@@ -103,3 +103,6 @@ ExtremeReactors2-1.21.1-2.4.28.jar
 occultengineering-1.21.1-0.13.1.jar
 undergardendelight-2.0.3-neoforge-1.21.1.jar
 create_cold_sweat-1.1.2.jar
+
+# Lite FIX2 removal
+polymorphic_occultism-1.21.1-1.0.1.jar

@@ -1,11 +1,11 @@
 # JFF Create for Friends Lite - Server bootstrap data
 
-Dedicated-server metadata for **JFF Create for Friends Lite 0.0.1 FIX1**.
+Dedicated-server metadata for **JFF Create for Friends Lite 0.0.1 FIX2**.
 
 - Minecraft: 1.21.1
 - NeoForge: 21.1.248
 - Client source list: `modliste(2).txt` (382 JARs)
-- Dedicated-server manifest entries: 338
+- Dedicated-server manifest entries: 337
 
 Files:
 - `server-manifest.json` - CurseForge project/file IDs installed by the server bootstrap.

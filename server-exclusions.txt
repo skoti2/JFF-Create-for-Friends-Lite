@@ -118,3 +118,6 @@ occultism-1.21.1-neoforge-1.224.4.jar
 
 # Lite FIX4 cleanup
 ars_ocultas-1.21.1-2.6.1.jar
+
+# Lite FIX5 removal
+upgraded-iron-chests-1.4.jar

@@ -1,11 +1,11 @@
 # JFF Create for Friends Lite - Server bootstrap data
 
-Dedicated-server metadata for **JFF Create for Friends Lite 0.0.1 FIX4**.
+Dedicated-server metadata for **JFF Create for Friends Lite 0.0.1 FIX5**.
 
 - Minecraft: 1.21.1
 - NeoForge: 21.1.248
 - Client source list: `modliste(2).txt` (382 JARs)
-- Dedicated-server manifest entries: 331
+- Dedicated-server manifest entries: 334
 
 Files:
 - `server-manifest.json` - CurseForge project/file IDs installed by the server bootstrap.
@@ -14,3 +14,13 @@ Files:
 - `DEPENDENCY-CHECK.txt` - important client dependency combinations to verify before publishing.
 
 Minecraft 1.21.1 / NeoForge 21.1.248.
+
+
+## FIX5 changes
+
+- Removed `upgraded-iron-chests-1.4.jar` from the server manifest and added it to server exclusions.
+- Removed its two config files from `server-overrides.zip`.
+- Added Create: Metallurgy 1.0.3.
+- Added Create: Simulated Thrusters 1.1.1.
+- Added Create: Coasters Simulated 0.1.5.
+- Added Create: Treadmill 1.13.

@@ -1195,12 +1195,6 @@
       "slug": "create-transmission"
     },
     {
-      "projectID": 1535273,
-      "fileID": 8726621,
-      "name": "Upgraded Iron Chests",
-      "slug": "upgraded-iron-chests"
-    },
-    {
       "projectID": 1600514,
       "fileID": 8399898,
       "name": "Create: Quarry",
@@ -1991,6 +1985,30 @@
       "fileID": 7389814,
       "name": "playerAnimator",
       "slug": "playeranimator"
+    },
+    {
+      "projectID": 1007404,
+      "fileID": 8128243,
+      "name": "Create: Metallurgy",
+      "slug": "create-metallurgy"
+    },
+    {
+      "projectID": 1546743,
+      "fileID": 8220627,
+      "name": "Create: Simulated Thrusters",
+      "slug": "create-simulated-thrusters"
+    },
+    {
+      "projectID": 1601871,
+      "fileID": 8655742,
+      "name": "Create: Coasters Simulated",
+      "slug": "create-coasters-simulated"
+    },
+    {
+      "projectID": 1434062,
+      "fileID": 8493747,
+      "name": "Create: Treadmill",
+      "slug": "create-treadmill"
     }
   ]
 }

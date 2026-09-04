@@ -2027,6 +2027,72 @@
       "fileID": 8763220,
       "name": "Create Cobblestone",
       "slug": "create-cobblestone"
+    },
+    {
+      "projectID": 1108467,
+      "fileID": 8523192,
+      "name": "Cobblegen Galore",
+      "slug": "cobblegen-galore"
+    },
+    {
+      "projectID": 1103188,
+      "fileID": 7159789,
+      "name": "Create More Recipes",
+      "slug": "create-morerecipes"
+    },
+    {
+      "projectID": 531834,
+      "fileID": 8063074,
+      "name": "Create Confectionery",
+      "slug": "create-confectionery"
+    },
+    {
+      "projectID": 649832,
+      "fileID": 7199305,
+      "name": "Create Ore Excavation",
+      "slug": "create-ore-excavation"
+    },
+    {
+      "projectID": 885375,
+      "fileID": 8729599,
+      "name": "Create Sabers",
+      "slug": "create-sabers"
+    },
+    {
+      "projectID": 829272,
+      "fileID": 8010045,
+      "name": "Create : Teleporters",
+      "slug": "create-teleporters"
+    },
+    {
+      "projectID": 623265,
+      "fileID": 8653064,
+      "name": "Create: Factory",
+      "slug": "create-factory"
+    },
+    {
+      "projectID": 559313,
+      "fileID": 8377914,
+      "name": "AEInfinityBooster",
+      "slug": "aeinfinitybooster"
+    },
+    {
+      "projectID": 957920,
+      "fileID": 5821676,
+      "name": "Glodium",
+      "slug": "glodium"
+    },
+    {
+      "projectID": 892005,
+      "fileID": 8511901,
+      "name": "ExtendedAE",
+      "slug": "ex-pattern-provider"
+    },
+    {
+      "projectID": 982512,
+      "fileID": 8755248,
+      "name": "AE2 Import Export Card",
+      "slug": "ae2-import-export-card"
     }
   ]
 }

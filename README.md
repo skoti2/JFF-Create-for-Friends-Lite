@@ -1,6 +1,6 @@
 # JFF Create for Friends Lite - Server bootstrap data
 
-Dedicated-server metadata for **JFF Create for Friends Lite 0.0.1 FIX5**.
+Dedicated-server metadata for **JFF Create for Friends Lite.
 
 - Minecraft: 1.21.1
 - NeoForge: 21.1.248

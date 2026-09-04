@@ -2009,6 +2009,24 @@
       "fileID": 8493747,
       "name": "Create: Treadmill",
       "slug": "create-treadmill"
+    },
+    {
+      "projectID": 238222,
+      "fileID": 8759217,
+      "name": "Just Enough Items (JEI)",
+      "slug": "jei"
+    },
+    {
+      "projectID": 1074338,
+      "fileID": 7727898,
+      "name": "AE2 JEI Integration",
+      "slug": "ae2-jei-integration"
+    },
+    {
+      "projectID": 1023532,
+      "fileID": 8763220,
+      "name": "Create Cobblestone",
+      "slug": "create-cobblestone"
     }
   ]
 }

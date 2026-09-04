@@ -30,7 +30,6 @@ betterf3  # BetterF3
 distant-horizons  # Distant Horizons: A Level of Detail mod
 sodium  # Sodium
 irisshaders  # Iris Shaders
-jei  # Just Enough Items (JEI)
 ftb-jei-extras  # FTB JEI Extras
 justenoughbreeding  # Just Enough Breeding (JEBr)
 jade-addons  # Jade Addons (Neo/Forge)
